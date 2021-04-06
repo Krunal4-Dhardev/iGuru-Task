@@ -1,0 +1,15 @@
+.container
+{
+    height:800px;
+    width:50%;
+    padding-left: 200px;
+    align-self: center;
+    margin-top: 50px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 2%;
+}
+.box
+{
+    box-shadow: blue 20px;
+}
